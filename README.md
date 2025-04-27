@@ -9,7 +9,7 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 
 > Tech I love: React • Angular • Node.js • PostgreSQL • AWS • Tailwind • System Design
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88" align="center"><img alt="Coding" width="400" src="https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88" style="text-align: center;"><img alt="Coding" width="400" src="https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88" style="max-width: 100%;"></a>
 
 </p>
 
