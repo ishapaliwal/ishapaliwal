@@ -1,16 +1,61 @@
-## Hi there 👋
+# <h1 align="center">Hi, I am Isha Paliwal</h1>
 
-<!--
-**ishapaliwal/ishapaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm a Software Developer with 5+ years of experience crafting full-stack web apps, designing intuitive UIs, and solving complex problems with clean, scalable code.
 
-Here are some ideas to get you started:
+I build products that blend frontend finesse with backend strength — from real-time chat platforms and admin dashboards to geospatial tools with dynamic mapping and JWT-secured workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full-time opportunities!
+
+> Tech I love: React • Angular • Node.js • PostgreSQL • AWS • Tailwind • System Design
+</p>
+
+![tkthao219-bunny](https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88)
+
+---
+
+### 👩‍💻 Currently
+
+- 💼 Developing **Maps Playground** – an interactive geospatial tool using OpenStreetMap, Turf.js, and Leaflet library  
+- 🧠 Exploring **Next.js**, **Framer Motion**, and **GraphQL**  
+- 🤝 Open to full-time roles in web, product, or systems engineering  
+- 📬 Reach me: [isha.paliwal11@gmail.com](mailto:isha.paliwal11@gmail.com)
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />)](https://linkedin.com/in/isha-paliwal)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/ishapaliwal)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=vercel&logoColor=white)](https://connectwise.netlify.app)
+
+---
+
+### 🛠 My Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,postgres,aws,express,redux,tailwind,bootstrap,figma,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishapaliwal&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaliwal&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishapaliwal&layout=compact&theme=dark)
+
+---
+
+### 🚀 Projects That Define Me
+
+- **[ConnectWise](https://connectwise.netlify.app)**: Social platform with real-time chat, post sharing, admin dashboard, AWS S3, and JWT auth
+- **VoteBuilder**: Voter outreach tool built for the Democratic Party of Virginia, including mapping, routing, and campaign tools
+- **Maps Playground**: Interactive geospatial tool using OpenStreetMap, Turf.js, and D3.js for custom route generation
+- **[Personal Portfolio](https://connectwise.netlify.app/login)**: 3D-enhanced site built in React with motion animations and dark/light theming
+
+---
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ishapaliwal&theme=github-compact)
+
+---
