@@ -37,7 +37,7 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 ### My Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,postgres,aws,express,redux,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,nodejs,express,redux,tailwind,bootstrap,figma,git,postgres,aws" />
 </p>
 
 ---
