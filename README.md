@@ -29,7 +29,7 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 ### 🔗 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=vercel&logoColor=white)](https://isha-paliwal.netlify.app)
-<a href="https://linkedin.com/in/isha-paliwal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://linkedin.com/in/isha-paliwal" arget="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/isha-paliwal) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/ishapaliwal)  
 
