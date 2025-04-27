@@ -17,16 +17,16 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 
 ---
 
-### 👩‍💻 Currently
+### Currently
 
-- 💼 Developing **Maps Playground** – an interactive geospatial tool using OpenStreetMap, Turf.js, and Leaflet library  
-- 🧠 Exploring **Next.js**, **Framer Motion**, and **GraphQL**  
-- 🤝 Open to full-time roles in web, product, or systems engineering  
-- 📬 Reach me: [isha.paliwal11@gmail.com](mailto:isha.paliwal11@gmail.com)
+- Developing **Maps Playground** – an interactive geospatial tool using OpenStreetMap, Turf.js, and Leaflet library  
+- Exploring **Next.js**, **Framer Motion**, and **GraphQL**  
+- Open to full-time roles in web, product, or systems engineering  
+- Reach me: [isha.paliwal11@gmail.com](mailto:isha.paliwal11@gmail.com)
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <a href="https://isha-paliwal.netlify.app" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="50px" height="50px" /></a> 
@@ -34,7 +34,7 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 
 ---
 
-### 🛠 My Toolbox
+### My Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,postgres,aws,express,redux,tailwind,bootstrap,figma,git,github,vscode" />
@@ -42,7 +42,7 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 
 ---
 
-### 📈 GitHub Insights
+### GitHub Insights
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaliwal&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishapaliwal&layout=compact&theme=dark)
