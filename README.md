@@ -3,9 +3,9 @@
 <p align="center">
 I'm a Software Developer with 5+ years of experience crafting full-stack web apps, designing intuitive UIs, and solving complex problems with clean, scalable code.
 
-I build products that blend frontend finesse with backend strength — from real-time chat platforms and admin dashboards to geospatial tools with dynamic mapping and JWT-secured workflows.
+I build products that blend frontend finesse with backend strength - from real-time chat platforms and admin dashboards to geospatial tools with dynamic mapping and JWT-secured workflows.
 
-Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full-time opportunities!
+Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) - open to full-time opportunities!
 
 > Tech I love: React • Angular • Node.js • PostgreSQL • AWS • Tailwind • System Design
 
