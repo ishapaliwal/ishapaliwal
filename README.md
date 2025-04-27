@@ -47,6 +47,8 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishapaliwal&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishapaliwal&layout=compact&theme=dark)
 
+![Isha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishapaliwal&theme=dracula)
+
 ---
 
 ### 🚀 Projects That Define Me
