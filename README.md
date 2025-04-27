@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I am Isha Paliwal</h1>
 
-<p align="center">
+<p align="center" style="text-align: center;">
 I'm a Software Developer with 5+ years of experience crafting full-stack web apps, designing intuitive UIs, and solving complex problems with clean, scalable code.
 
 I build products that blend frontend finesse with backend strength — from real-time chat platforms and admin dashboards to geospatial tools with dynamic mapping and JWT-secured workflows.
@@ -10,8 +10,6 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 > Tech I love: React • Angular • Node.js • PostgreSQL • AWS • Tailwind • System Design
 
 ![tkthao219-bunny](https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88)
-
-<img src="https://github.com/user-attachments/assets/e32d1f60-84a4-4739-aa73-7b69dccedb88" />
 
 </p>
 
