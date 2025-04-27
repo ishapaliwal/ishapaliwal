@@ -54,8 +54,3 @@ Currently pursuing my M.S. in Computer Science @ GWU (GPA: 3.9) — open to full
 - **Maps Playground**: Interactive geospatial tool using OpenStreetMap, Turf.js, and D3.js for custom route generation
 - **[Personal Portfolio](https://connectwise.netlify.app/login)**: 3D-enhanced site built in React with motion animations and dark/light theming
 
----
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ishapaliwal&theme=github-compact)
-
----
