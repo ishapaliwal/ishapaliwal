@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I am Isha Paliwal</h1>
 
-<p align="center" style="text-align: center;">
+<p align="center">
 I'm a Software Developer with 5+ years of experience crafting full-stack web apps, designing intuitive UIs, and solving complex problems with clean, scalable code.
 
 I build products that blend frontend finesse with backend strength — from real-time chat platforms and admin dashboards to geospatial tools with dynamic mapping and JWT-secured workflows.
